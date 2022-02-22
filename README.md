@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bijaya Baniya</h1>
 <h3 align="center">A Full Stack .NET Core MVC Developer</h3>
 
-- 🔭 I’m currently working on [Contentder](https://www.contentder.com/)
 
 - 🌱 I’m currently learning **.NET Core in Depth**
 
